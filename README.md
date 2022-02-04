@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the Chain of Responsability design pattern.
+Simple project representing the Chain of Responsability design pattern. I've made a representation of a postal system.
 
 # Definition
 
